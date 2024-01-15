@@ -2,6 +2,8 @@
 
 We will be debating the most contentious topics in TypeScript. I will be arguing BOTH sides of every debate, with help from my crack legal team (you).
 
+Full video: https://www.youtube.com/watch?v=ttUbH_JAHFI&t=1817s
+
 ## Debates
 
 We'll be debating four main topics:
